@@ -8,6 +8,7 @@
   flex-wrap: wrap;
   border-color: green;
   max-width: 600px;
+  margin: 0 auto;
 }
 .card-sub {
   padding: 50px;
