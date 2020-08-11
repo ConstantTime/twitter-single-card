@@ -60,28 +60,36 @@
 }
 
 .card-icon-comment {
+  min-width: 20px;
+  max-width: 100px;
 }
 
 .card-icon-retweet {
-  margin-right: 5px;
+  min-width: 20px;
+  max-width: 100px;
 }
 
 .card-icon-like {
+  min-width: 20px;
+  max-width: 100px;
 }
 
 .card-icon-share {
+  min-width: 20px;
+  max-width: 100px;
 }
 
 .card-icon-comment-value {
-  margin-left: 5px;
-  margin-right: 50px;
+  min-width: 80px;
+  max-width: 100px;
 }
 
 .card-icon-retweet-value {
-  margin-right: 50px;
+  min-width: 80px;
+  max-width: 100px;
 }
 
 .card-icon-like-value {
-  margin-left: 5px;
-  margin-right: 100px;
+  min-width: 80px;
+  max-width: 100px;
 }
